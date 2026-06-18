@@ -70,27 +70,7 @@ Many of the lowest-risk occupations identified AI-related skills as key defenses
 
 ## Strategic Implications
 
-## 1. AI Risk Is Driven More by Task Structure Than Compensation
-
-Occupations earning under $75K averaged an AI risk score of 64.3, compared with 27.8 for occupations earning over $175K. However, the strongest predictor of resilience appeared to be work involving judgment, accountability, and specialized expertise rather than compensation alone.
-
-## 2. Project & Product Management Demonstrates a Strong Risk-to-Compensation Profile
-
-Project & Product Management recorded the lowest average AI risk score (31.8) while maintaining one of the highest average salary levels ($157,500). The category's emphasis on prioritization, stakeholder alignment, and decision-making may make it more resistant to automation than many other occupations.
-
-## 3. AI Appears to Target Tasks Rather Than Industries
-
-The highest-risk occupations span multiple industries, including Data Entry Clerk (88), Medical Transcriptionist (82), Tax Preparer (72), and Contract Reviewer (70). This suggests that AI disruption is driven more by the nature of work performed than by industry affiliation.
-
-## 4. Marketing and Creative Roles Are Seeing the Fastest Change
-
-Marketing & Sales recorded the largest increase in AI risk between Q1 2025 and Q2 2026 (+14.1 points), followed by Creative occupations (+13.3). Content-centric roles such as Content Writer and Copywriter experienced some of the largest increases in exposure (+20 points each).
-
-## 5. Resilient Careers Tend to Integrate AI
-
-Many of the lowest-risk occupations identified AI-related skills as key defenses against disruption, including AI Product Strategy, AI-Assisted Development, and AI Security. The data suggests that adapting to AI may be a stronger long-term strategy than avoiding it.
-
-For organizations, these results highlight the importance of workforce reskilling and AI adoption programs. For individuals, the data suggests that combining domain expertise with AI fluency may be a more effective than attempting to avoid AI altogether.
+The analysis suggests that AI is reshaping jobs unevenly, with the highest risk concentrated in roles built around routine information processing and content generation. For both organizations and workers, long-term resilience may depend on combining domain expertise with the ability to effectively leverage AI tools.
 
 ---
 
