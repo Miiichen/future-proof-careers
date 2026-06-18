@@ -70,7 +70,7 @@ Many of the lowest-risk occupations identified AI-related skills as key defenses
 
 ## Strategic Implications
 
-The analysis suggests that AI is reshaping jobs unevenly, with the highest risk concentrated in roles built around routine information processing and content generation. For both organizations and workers, long-term resilience may depend on combining domain expertise with the ability to effectively leverage AI tools.
+Rather than eliminating entire professions, AI appears to be changing the composition of work within them. The findings suggest that organizations should prioritize reskilling employees toward higher-value activities such as decision-making, stakeholder management, and strategic problem-solving. For individuals, career resilience may depend less on avoiding AI and more on developing the skills needed to direct, evaluate, and collaborate with AI systems.
 
 ---
 
